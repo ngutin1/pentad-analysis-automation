@@ -93,7 +93,7 @@ analysis_df = pd.concat(results, ignore_index=True)
 analysis_df.to_csv('pentad_analysis_data.csv', index=False)
 ```
 
-## 📁 Project Structure
+## Project Structure
 ```
 campaign-rhetoric-analysis/
 ├── script.ipynb              # Main processing pipeline
@@ -103,7 +103,7 @@ campaign-rhetoric-analysis/
 ├── README.md                # This file
 ```
 
-## 🔍 Key Functions
+## Key Functions
 
 ### `download_audio(youtube_url, start_time, duration=None)`
 Downloads audio segments from YouTube videos using yt-dlp.
