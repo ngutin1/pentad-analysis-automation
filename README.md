@@ -132,23 +132,6 @@ Creates semantically coherent text chunks optimized for LLM analysis.
 - **Size Optimization**: 2K-4K character chunks for LLM processing
 - **Boundary Preservation**: Maintains sentence and rhetorical integrity
 
-## Future Development
-
-### Phase 1: Pentad Automation
-- [ ] Design LLM prompts for pentad element extraction
-- [ ] Create JSON schema for structured rhetorical analysis
-- [ ] Implement automated pentad classification pipeline
-
-### Phase 2: Correlation Analysis
-- [ ] Integrate polling data with rhetorical analysis
-- [ ] Develop metrics for rhetorical strategy effectiveness
-- [ ] Create visualizations for trend analysis
-
-### Phase 3: Comparative Framework
-- [ ] Expand to multi-candidate analysis
-- [ ] Develop rhetorical strategy taxonomies
-- [ ] Build predictive models for campaign messaging effectiveness
-
 
 ## Contributing
 
