@@ -20,7 +20,6 @@ The analysis covers **71 campaign events** from Kamala Harris's 2024 presidentia
 - Campaign events
 - Podcast appearances
 
-**Output**: 624 text chunks (553 semantic chunks + 71 full transcripts) totaling over 500,000 words of campaign rhetoric.
 
 ## Technical Pipeline
 
@@ -28,7 +27,7 @@ The analysis covers **71 campaign events** from Kamala Harris's 2024 presidentia
 - **Input**: YouTube URLs with timestamp ranges from campaign events
 - **Audio Extraction**: `yt-dlp` for downloading campaign video segments
 - **Transcription**: OpenAI Whisper (small model) for speech-to-text conversion
-- **Cleaning**: Custom algorithms to remove audience responses, chants, and repetitive elements
+- **Cleaning**: Script to remove audience responses, chants, and repetitive elements
 
 ### 2. Text Processing
 - **Semantic Chunking**: Using sentence transformers (`all-MiniLM-L6-v2`) for coherent text segmentation
@@ -58,12 +57,6 @@ pip install tensorflow==2.13.0 tf-keras  # Optional for advanced analysis
 # Linux: sudo apt install ffmpeg
 ```
 
-### Installation
-```bash
-git clone https://github.com/ngutin1/pentad-analysis-automation
-cd pentad-analysis-automation
-pip install -r requirements.txt
-```
 
 ### Basic Usage
 ```python
@@ -160,6 +153,4 @@ For questions about methodology, collaboration opportunities, or data access:
 - Contact: [nicholasgutin@gmail.com]
 
 ---
-
-*This project is for academic and research purposes, analyzing publicly available campaign content to understand political rhetoric and communication strategies.*
  
