@@ -1,0 +1,2082 @@
+[
+    {
+      "speech_metadata": {
+        "date": "2024-07-23",
+        "type": "Rally",
+        "location": "Milwaukee, Wisconsin",
+        "chunk_id": "full",
+        "word_count": 1188
+      },
+      "pentad_analysis": {
+        "act_frequencies": {
+          "policy_economic": 14,
+          "policy_social": 5,
+          "policy_foreign": 0,
+          "attack_opp": 11,
+          "past_actions": 8
+        },
+        "agent_frequencies": {
+          "self": 15,
+          "admin": 6,
+          "trump": 11,
+          "billionaires": 2,
+          "marginalized": 4
+        },
+        "ratio_frequencies": {
+          "self+policy_economic": 6,
+          "self+policy_social": 2,
+          "self+policy_foreign": 0,
+          "self+attack_opp": 2,
+          "self+past_actions": 5,
+          "admin+policy_economic": 1,
+          "admin+policy_social": 0,
+          "admin+policy_foreign": 0,
+          "admin+attack_opp": 0,
+          "admin+past_actions": 5,
+          "trump+policy_economic": 5,
+          "trump+policy_social": 1,
+          "trump+policy_foreign": 0,
+          "trump+attack_opp": 5,
+          "trump+past_actions": 0,
+          "billionaires+policy_economic": 2,
+          "billionaires+policy_social": 0,
+          "billionaires+policy_foreign": 0,
+          "billionaires+attack_opp": 0,
+          "billionaires+past_actions": 0,
+          "marginalized+policy_economic": 0,
+          "marginalized+policy_social": 2,
+          "marginalized+policy_foreign": 0,
+          "marginalized+attack_opp": 0,
+          "marginalized+past_actions": 2
+        }
+      },
+      "tagged_excerpts": [
+        {
+          "text": "every person has the opportunity not just to get by, but to get ahead",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "no child has to grow up in poverty",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "every worker has the freedom to join a union",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "affordable healthcare, affordable childcare, and paid family leave",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "every senior can retire with dignity",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "building up the middle class will be a defining goal of my presidency",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "When our middle class is strong, America is strong",
+          "act": "policy_economic",
+          "agent": "admin"
+        },
+        {
+          "text": "Donald Trump intends to cut Social Security and Medicare",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "give tax breaks to billionaires and big corporations",
+          "act": "policy_economic",
+          "agent": "billionaires"
+        },
+        {
+          "text": "make working families foot the bill",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "end the Affordable Care Act",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "insurance companies had the power to deny people with pre-existing conditions",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "Children with asthma, women who survived breast cancer, grandparents with diabetes",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "best 24 hours of grassroots fundraising in presidential campaign history",
+          "act": "policy_economic",
+          "agent": "billionaires"
+        },
+        {
+          "text": "the sacred freedom to vote, will make sure every American has the ability to cast their ballot",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "pass red flag laws, universal background checks, and an assault weapons ban",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "stop Donald Trump's extreme abortion bans",
+          "act": "policy_social",
+          "agent": "trump"
+        },
+        {
+          "text": "trust women to make decisions about their own body",
+          "act": "policy_social",
+          "agent": "marginalized"
+        },
+        {
+          "text": "when Congress passes a law to restore reproductive freedoms as President I will sign it into law",
+          "act": "policy_social",
+          "agent": "marginalized"
+        },
+        {
+          "text": "I know Donald Trump's type",
+          "act": "attack_opp",
+          "agent": "self"
+        },
+        {
+          "text": "Trump was found liable for committing sexual abuse",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump was just found guilty of fraud on 34 counts",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump wants to take our country backward",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "his extreme project 2025 agenda will weaken the middle class",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "a country of chaos, fear, and hate",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "America has tried these failed economic policies before",
+          "act": "attack_opp",
+          "agent": "self"
+        },
+        {
+          "text": "I was elected Attorney General of the State of California",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "I was a courtroom prosecutor",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "I took on perpetrators of all kinds predators who abused women fraudsters who ripped off consumers",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "As a prosecutor I specialized in cases involving sexual abuse",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "I took on the big wall street banks and held them accountable for fraud",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "Joe's legacy of accomplishment over the past three and a half years is unmatched in modern history",
+          "act": "past_actions",
+          "agent": "admin"
+        },
+        {
+          "text": "in one term as President he has already surpassed the legacy of most presidents",
+          "act": "past_actions",
+          "agent": "admin"
+        },
+        {
+          "text": "you all helped us win in 2020",
+          "act": "past_actions",
+          "agent": "admin"
+        },
+        {
+          "text": "predators who abused women",
+          "act": "past_actions",
+          "agent": "marginalized"
+        },
+        {
+          "text": "fraudsters who ripped off consumers",
+          "act": "past_actions",
+          "agent": "marginalized"
+        },
+        {
+          "text": "people-powered campaign",
+          "act": "past_actions",
+          "agent": "admin"
+        },
+        {
+          "text": "grassroots fundraising",
+          "act": "past_actions",
+          "agent": "admin"
+        }
+      ],
+      "speech_number": 1
+    },
+    {
+      "speech_metadata": {
+        "date": "2024-07-30",
+        "type": "Rally",
+        "location": "Atlanta, Georgia",
+        "chunk_id": "full",
+        "word_count": 1903
+      },
+      "pentad_analysis": {
+        "act_frequencies": {
+          "policy_economic": 19,
+          "policy_social": 8,
+          "policy_foreign": 2,
+          "attack_opp": 16,
+          "past_actions": 12
+        },
+        "agent_frequencies": {
+          "self": 21,
+          "admin": 5,
+          "trump": 17,
+          "billionaires": 3,
+          "marginalized": 11
+        },
+        "ratio_frequencies": {
+          "self+policy_economic": 10,
+          "self+policy_social": 3,
+          "self+policy_foreign": 2,
+          "self+attack_opp": 2,
+          "self+past_actions": 4,
+          "admin+policy_economic": 2,
+          "admin+policy_social": 0,
+          "admin+policy_foreign": 0,
+          "admin+attack_opp": 0,
+          "admin+past_actions": 3,
+          "trump+policy_economic": 5,
+          "trump+policy_social": 1,
+          "trump+policy_foreign": 0,
+          "trump+attack_opp": 11,
+          "trump+past_actions": 0,
+          "billionaires+policy_economic": 2,
+          "billionaires+policy_social": 0,
+          "billionaires+policy_foreign": 0,
+          "billionaires+attack_opp": 1,
+          "billionaires+past_actions": 0,
+          "marginalized+policy_economic": 0,
+          "marginalized+policy_social": 4,
+          "marginalized+policy_foreign": 0,
+          "marginalized+attack_opp": 2,
+          "marginalized+past_actions": 5
+        }
+      },
+      "tagged_excerpts": [
+        {
+          "text": "every person has the opportunity to build a business, to own a home, to build intergenerational wealth",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "affordable healthcare, affordable childcare, paid leave",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "building up the middle class will be a defining goal of my presidency",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "when our middle class is strong, America is strong",
+          "act": "policy_economic",
+          "agent": "admin"
+        },
+        {
+          "text": "families need relief from the high cost of living",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "On day one, I will take on price gouging and bring down costs",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "ban more of those hidden fees and surprise late charges",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "take on corporate landlords and cap unfair rent increases",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "take on big pharma to cap prescription drug costs for all Americans",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "save many middle class families thousands of dollars a year",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "our economy is the strongest in the world",
+          "act": "policy_economic",
+          "agent": "admin"
+        },
+        {
+          "text": "Donald Trump intends to cut Social Security and Medicare",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "give tax breaks to billionaires and big corporations",
+          "act": "policy_economic",
+          "agent": "billionaires"
+        },
+        {
+          "text": "gut our investments in clean energy jobs",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "end the Affordable Care Act",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "insurance companies have the power to deny people with pre-existing conditions",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "Children with asthma, breast cancer survivors, grandparents with diabetes",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "best week of grassroots fundraising in presidential campaign history",
+          "act": "policy_economic",
+          "agent": "billionaires"
+        },
+        {
+          "text": "Our plan will lower costs",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "the freedom to vote",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "freedom to be safe from gun violence",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "pass the freedom to vote act and the John Lewis voting right",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "pass universal background checks, red flag laws, and an assault weapons ban",
+          "act": "policy_social",
+          "agent": "marginalized"
+        },
+        {
+          "text": "stop Donald Trump's extreme abortion bans",
+          "act": "policy_social",
+          "agent": "trump"
+        },
+        {
+          "text": "freedom to live without fear of bigotry and hate",
+          "act": "policy_social",
+          "agent": "marginalized"
+        },
+        {
+          "text": "freedom to love who you love openly and with pride",
+          "act": "policy_social",
+          "agent": "marginalized"
+        },
+        {
+          "text": "freedom to learn and acknowledge our true and full history",
+          "act": "policy_social",
+          "agent": "marginalized"
+        },
+        {
+          "text": "I will work to actually solve the problem, As president, I will bring back the border security bill",
+          "act": "policy_foreign",
+          "agent": "self"
+        },
+        {
+          "text": "I will sign it into law",
+          "act": "policy_foreign",
+          "agent": "self"
+        },
+        {
+          "text": "I know Donald Trump's tight",
+          "act": "attack_opp",
+          "agent": "self"
+        },
+        {
+          "text": "Donald Trump ran a for-profit college that scanned students",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Trump was found liable for committing sexual abuse",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump was just found guilty of fraud. 34 counts",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump has been talking a big game about securing our border, but he does not walk the walk",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Trump directed his allies in the Senate to vote it down",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump does not care about border security. He only cares about himself",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump has a different plan in mind. One that would raise prices on middle class families",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Project 2025 is a plan to weaken the middle class",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "he pulled out of the debate in September",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "don't you find some of their stuff to just be plain weird?",
+          "act": "attack_opp",
+          "agent": "self"
+        },
+        {
+          "text": "he intends to give tax breaks to billionaires",
+          "act": "attack_opp",
+          "agent": "billionaires"
+        },
+        {
+          "text": "Predators who abused women",
+          "act": "attack_opp",
+          "agent": "marginalized"
+        },
+        {
+          "text": "to take us back to a time when insurance companies have the power to deny people",
+          "act": "attack_opp",
+          "agent": "marginalized"
+        },
+        {
+          "text": "before I was elected Vice President, and before I was elected a United States Senator, I was an elected Attorney General",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "I was a courtroom prosecutor",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "I took on perpetrators of all kinds. Predators who abused women. Fraudsters who ripped off consumers",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "as Attorney General of California, I took on one of our country's largest for-profit colleges",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "I was the Attorney General of a border state",
+          "act": "past_actions",
+          "agent": "marginalized"
+        },
+        {
+          "text": "I walked underground tunnels between the United States and Mexico on that border",
+          "act": "past_actions",
+          "agent": "marginalized"
+        },
+        {
+          "text": "I went after transnational gangs, drug cartels, and human traffickers",
+          "act": "past_actions",
+          "agent": "marginalized"
+        },
+        {
+          "text": "I prosecuted them, in case after case, and I won",
+          "act": "past_actions",
+          "agent": "marginalized"
+        },
+        {
+          "text": "Our administration worked on the most significant border security bill in decades",
+          "act": "past_actions",
+          "agent": "admin"
+        },
+        {
+          "text": "you all helped us win in 2020",
+          "act": "past_actions",
+          "agent": "admin"
+        },
+        {
+          "text": "after I announced my candidacy, we saw the best week of grassroots fundraising",
+          "act": "past_actions",
+          "agent": "admin"
+        },
+        {
+          "text": "I held the Big Wall Street banks accountable for fraud",
+          "act": "past_actions",
+          "agent": "marginalized"
+        },
+        {
+          "text": "people powered campaign",
+          "act": "past_actions",
+          "agent": "admin"
+        },
+        {
+          "text": "grassroots fundraising in presidential campaign history",
+          "act": "past_actions",
+          "agent": "admin"
+        }
+      ],
+      "speech_number": 2
+    },
+    {
+      "speech_metadata": {
+        "date": "2024-07-31",
+        "type": "Speech",
+        "location": "Houston, Texas - Sigma Gamma Rho Sorority Inc.'s 60th International Biennial Boule",
+        "chunk_id": "full",
+        "word_count": 1753
+      },
+      "pentad_analysis": {
+        "act_frequencies": {
+          "policy_economic": 15,
+          "policy_social": 9,
+          "policy_foreign": 0,
+          "attack_opp": 14,
+          "past_actions": 7
+        },
+        "agent_frequencies": {
+          "self": 12,
+          "admin": 3,
+          "trump": 13,
+          "billionaires": 2,
+          "marginalized": 15
+        },
+        "ratio_frequencies": {
+          "self+policy_economic": 7,
+          "self+policy_social": 4,
+          "self+policy_foreign": 0,
+          "self+attack_opp": 1,
+          "self+past_actions": 0,
+          "admin+policy_economic": 1,
+          "admin+policy_social": 0,
+          "admin+policy_foreign": 0,
+          "admin+attack_opp": 0,
+          "admin+past_actions": 2,
+          "trump+policy_economic": 5,
+          "trump+policy_social": 1,
+          "trump+policy_foreign": 0,
+          "trump+attack_opp": 7,
+          "trump+past_actions": 0,
+          "billionaires+policy_economic": 2,
+          "billionaires+policy_social": 0,
+          "billionaires+policy_foreign": 0,
+          "billionaires+attack_opp": 0,
+          "billionaires+past_actions": 0,
+          "marginalized+policy_economic": 0,
+          "marginalized+policy_social": 4,
+          "marginalized+policy_foreign": 0,
+          "marginalized+attack_opp": 6,
+          "marginalized+past_actions": 5
+        }
+      },
+      "tagged_excerpts": [
+        {
+          "text": "affordable healthcare, affordable childcare and paid leave",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "equal pay for women",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "when we lift up the economic status of women, we lift up the economic status of children",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "every person has the opportunity not just to get by but to get ahead",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "build a business, to own a home and to build intergenerational wealth",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "bring down the cost of living for hardworking Americans",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "build up America's families and America's middle class",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "when our middle class is strong, America is strong",
+          "act": "policy_economic",
+          "agent": "admin"
+        },
+        {
+          "text": "raise taxes on middle class families and cut taxes for billionaires",
+          "act": "policy_economic",
+          "agent": "billionaires"
+        },
+        {
+          "text": "eliminate the department of education, and end programs like Head Start",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "tried to cut Social Security and Medicare every single year",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "tried more than 60 times to end the Affordable Care Act",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "band more of those hidden fees and surprise late charges",
+          "act": "policy_economic",
+          "agent": "billionaires"
+        },
+        {
+          "text": "take on corporate landlords and cap rent increases",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "take on big pharma and cap the cost of prescription drugs for all Americans",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "the sacred freedom to vote",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "pass the John Lewis Voting Rights Act and the Freedom to Vote Act",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "pass universal background checks, red flag laws, and an assault weapons ban",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "fight for a woman's right to choose",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "when Congress passes a law to restore reproductive freedoms I will sign it into law",
+          "act": "policy_social",
+          "agent": "marginalized"
+        },
+        {
+          "text": "freedom to be safe from gun violence",
+          "act": "policy_social",
+          "agent": "marginalized"
+        },
+        {
+          "text": "freedom to live without fear of bigotry and hate",
+          "act": "policy_social",
+          "agent": "marginalized"
+        },
+        {
+          "text": "freedom to love who you love openly and with pride",
+          "act": "policy_social",
+          "agent": "marginalized"
+        },
+        {
+          "text": "freedom to learn and acknowledge America's true and full history",
+          "act": "policy_social",
+          "agent": "trump"
+        },
+        {
+          "text": "I say to Sigma Gamma Rose Sorority Incorporated",
+          "act": "attack_opp",
+          "agent": "self"
+        },
+        {
+          "text": "there are those who are trying to take us backward",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Project 2025 would raise taxes on middle class families",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump gave tax breaks to billionaires and big corporations",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "he tried to cut Social Security and Medicare every single year",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump spoke at the annual meeting of the National Association of Black Journalists. And it was the same old show. The divisiveness and the disrespect",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "does not respond with hostility and anger when confronted with the facts",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "now he intends to pass a nationwide abortion ban",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Women who are fighting for equal pay",
+          "act": "attack_opp",
+          "agent": "marginalized"
+        },
+        {
+          "text": "Women who are fighting for the right to control the decisions for their bodies",
+          "act": "attack_opp",
+          "agent": "marginalized"
+        },
+        {
+          "text": "children with asthma, breast cancer survivors, grandparents with diabetes",
+          "act": "attack_opp",
+          "agent": "marginalized"
+        },
+        {
+          "text": "the South, where the majority of black women live, every state except for Virginia has an abortion ban",
+          "act": "attack_opp",
+          "agent": "marginalized"
+        },
+        {
+          "text": "Denying children with asthma, breast cancer survivors, grandparents with diabetes",
+          "act": "attack_opp",
+          "agent": "marginalized"
+        },
+        {
+          "text": "predators who abused women",
+          "act": "attack_opp",
+          "agent": "marginalized"
+        },
+        {
+          "text": "In 2020, you continued your leadership when during the height of a pandemic, you helped elect Joe Biden",
+          "act": "past_actions",
+          "agent": "admin"
+        },
+        {
+          "text": "you all helped us win in 2020",
+          "act": "past_actions",
+          "agent": "admin"
+        },
+        {
+          "text": "When he was president, he gave tax breaks to billionaires",
+          "act": "past_actions",
+          "agent": "marginalized"
+        },
+        {
+          "text": "he tried to cut Social Security and Medicare every single year",
+          "act": "past_actions",
+          "agent": "marginalized"
+        },
+        {
+          "text": "he and his allies have tried more than 60 times to end the Affordable Care Act",
+          "act": "past_actions",
+          "agent": "marginalized"
+        },
+        {
+          "text": "this month the Supreme Court basically just told the former president who has been convicted of fraud",
+          "act": "past_actions",
+          "agent": "marginalized"
+        },
+        {
+          "text": "I took care of my mother when she was sick",
+          "act": "past_actions",
+          "agent": "marginalized"
+        }
+      ],
+      "speech_number": 3
+    },
+    {
+      "speech_number": 6,
+      "speech_metadata": {
+        "date": "2024-08-08",
+        "type": "Speech",
+        "location": "Detroit, Michigan - United Auto Workers local 900",
+        "chunk_id": "full",
+        "word_count": 3079
+      },
+      "pentad_analysis": {
+        "act_frequencies": {
+          "policy_economic": 14,
+          "policy_social": 6,
+          "policy_foreign": 0,
+          "attack_opp": 18,
+          "past_actions": 10
+        },
+        "agent_frequencies": {
+          "self": 15,
+          "admin": 7,
+          "trump": 20,
+          "billionaires": 4,
+          "marginalized": 2
+        },
+        "ratio_frequencies": {
+          "self+policy_economic": 7,
+          "self+policy_social": 3,
+          "self+policy_foreign": 0,
+          "self+attack_opp": 1,
+          "self+past_actions": 4,
+          "admin+policy_economic": 4,
+          "admin+policy_social": 0,
+          "admin+policy_foreign": 0,
+          "admin+attack_opp": 0,
+          "admin+past_actions": 3,
+          "trump+policy_economic": 2,
+          "trump+policy_social": 1,
+          "trump+policy_foreign": 0,
+          "trump+attack_opp": 17,
+          "trump+past_actions": 0,
+          "billionaires+policy_economic": 1,
+          "billionaires+policy_social": 0,
+          "billionaires+policy_foreign": 0,
+          "billionaires+attack_opp": 0,
+          "billionaires+past_actions": 3,
+          "marginalized+policy_economic": 0,
+          "marginalized+policy_social": 2,
+          "marginalized+policy_foreign": 0,
+          "marginalized+attack_opp": 0,
+          "marginalized+past_actions": 0
+        }
+      },
+      "tagged_excerpts": [
+        {
+          "text": "working class people they have working class roots",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "live paycheck to paycheck",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "create auto jobs in United States of America to bring work back here",
+          "act": "policy_economic",
+          "agent": "admin"
+        },
+        {
+          "text": "brought a battery plant to Lord's Town Ohio",
+          "act": "policy_economic",
+          "agent": "admin"
+        },
+        {
+          "text": "unions built the middle class",
+          "act": "policy_economic",
+          "agent": "admin"
+        },
+        {
+          "text": "the middle class built the United States of America",
+          "act": "policy_economic",
+          "agent": "admin"
+        },
+        {
+          "text": "when the middle class is strong, America is strong",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "He weakened our country",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "he drove this economy into the ground",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "cuts the middle class makes it more difficult to own a home",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "Representing the billionaire class",
+          "act": "policy_economic",
+          "agent": "billionaires"
+        },
+        {
+          "text": "good-paying jobs",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "enriching themselves at the expense of the working class",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "appeals to affordable care act",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "the freedom to vote",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "freedom and liberty to make choices",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "their government telling them what to do",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "Gutting social security and Medicare",
+          "act": "policy_social",
+          "agent": "trump"
+        },
+        {
+          "text": "ban abortion across this country",
+          "act": "policy_social",
+          "agent": "marginalized"
+        },
+        {
+          "text": "freedom to live safe from gun violence",
+          "act": "policy_social",
+          "agent": "marginalized"
+        },
+        {
+          "text": "the Trump Vance disaster",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "They spent their lives serving themselves",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "enriching themselves at the expense of the working class",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump calls me stupid",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "he thinks auto workers are stupid",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Trump's alternative facts or what we all call lies",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "He blamed auto workers for what was wrong with these companies",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "doing a rotation of our jobs out of the Midwest",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "when he was president plans were closing",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump was missing in action",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "paid people $20,000 to hold up signs saying auto workers for Trump. The man's a con man",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "He froze in the face of COVID and our neighbors died because of it",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "by doing nothing about COVID he drove this economy into the ground",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Violent crime was up when Donald Trump was president",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Get rid of labor unions and get rid of the voices that we bring",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "If Trump's returns he will get the job done and make sure that we can't organize collectively",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "he doesn't care about your family and his running mate is just as dangerous",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "I know Donald Trump's type",
+          "act": "attack_opp",
+          "agent": "self"
+        },
+        {
+          "text": "she's had a first job at McDonald's",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "Governor wall has been a school teacher",
+          "act": "past_actions",
+          "agent": "billionaires"
+        },
+        {
+          "text": "vice president Harris and Tim Walls answered the call",
+          "act": "past_actions",
+          "agent": "admin"
+        },
+        {
+          "text": "Kamala Harris was on the picket line with striking workers",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "She stood shoulder to shoulder with our members",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "She helped as vice president create auto jobs",
+          "act": "past_actions",
+          "agent": "admin"
+        },
+        {
+          "text": "They brought a battery plant to Lord's Town",
+          "act": "past_actions",
+          "agent": "admin"
+        },
+        {
+          "text": "She worked with us to save a community in Belvedere, Illinois",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "governor Tim Walls was standing on the picket line with striking workers",
+          "act": "past_actions",
+          "agent": "billionaires"
+        },
+        {
+          "text": "we won and we're going to continue to win",
+          "act": "past_actions",
+          "agent": "billionaires"
+        }
+      ]
+    },
+    {
+      "speech_number": 8,
+      "speech_metadata": {
+        "date": "2024-08-10",
+        "type": "Rally",
+        "location": "Las Vegas, Nevada",
+        "chunk_id": "full",
+        "word_count": 2296
+      },
+      "pentad_analysis": {
+        "act_frequencies": {
+          "policy_economic": 19,
+          "policy_social": 8,
+          "policy_foreign": 2,
+          "attack_opp": 19,
+          "past_actions": 9
+        },
+        "agent_frequencies": {
+          "self": 20,
+          "admin": 4,
+          "trump": 19,
+          "billionaires": 2,
+          "marginalized": 12
+        },
+        "ratio_frequencies": {
+          "self+policy_economic": 10,
+          "self+policy_social": 3,
+          "self+policy_foreign": 2,
+          "self+attack_opp": 2,
+          "self+past_actions": 3,
+          "admin+policy_economic": 3,
+          "admin+policy_social": 0,
+          "admin+policy_foreign": 0,
+          "admin+attack_opp": 0,
+          "admin+past_actions": 1,
+          "trump+policy_economic": 4,
+          "trump+policy_social": 1,
+          "trump+policy_foreign": 0,
+          "trump+attack_opp": 14,
+          "trump+past_actions": 0,
+          "billionaires+policy_economic": 2,
+          "billionaires+policy_social": 0,
+          "billionaires+policy_foreign": 0,
+          "billionaires+attack_opp": 0,
+          "billionaires+past_actions": 0,
+          "marginalized+policy_economic": 0,
+          "marginalized+policy_social": 4,
+          "marginalized+policy_foreign": 0,
+          "marginalized+attack_opp": 3,
+          "marginalized+past_actions": 5
+        }
+      },
+      "tagged_excerpts": [
+        {
+          "text": "when I am President, we will continue our fight for working families of America",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "raise the minimum wage and eliminate taxes on tips for service and hospitality workers",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "affordable healthcare, affordable childcare, and paid leave",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "every American has an opportunity to own a home, to start a business, and to build wealth",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "lower the cost of living for America's families",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "prices for everyday things like groceries are still too high",
+          "act": "policy_economic",
+          "agent": "admin"
+        },
+        {
+          "text": "when I am President, I will continue that work to bring down prices",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "take on big corporations that engage in illegal price-gouging",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "corporate landlords that unfairly raise rents on working families",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "take on big pharma and cap the cost of prescription drugs for all Americans",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "the middle class built the United States of America",
+          "act": "policy_economic",
+          "agent": "admin"
+        },
+        {
+          "text": "Donald Trump intends to give tax breaks to billionaires and big corporations",
+          "act": "policy_economic",
+          "agent": "billionaires"
+        },
+        {
+          "text": "He intends to cut Social Security and Medicare",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "he intends to end the Affordable Care Act",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "insurance companies had the power to deny people with pre-existing conditions",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "Children with asthma? Breast cancer survivors? Grandparents with diabetes?",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "give tax breaks to billionaires and big corporations",
+          "act": "policy_economic",
+          "agent": "billionaires"
+        },
+        {
+          "text": "the freedom to vote",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "freedom to be safe from gun violence",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "pass the John Lewis Voting Rights Act and the Freedom to Vote Act",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "pass an assault weapons ban, universal background checks, and red flag laws",
+          "act": "policy_social",
+          "agent": "marginalized"
+        },
+        {
+          "text": "Trump abortion ban",
+          "act": "policy_social",
+          "agent": "trump"
+        },
+        {
+          "text": "freedom to love who you love openly and with pride",
+          "act": "policy_social",
+          "agent": "marginalized"
+        },
+        {
+          "text": "freedom of a woman to make decisions about her own body",
+          "act": "policy_social",
+          "agent": "marginalized"
+        },
+        {
+          "text": "when Congress passes a bill to restore reproductive freedoms, I will sign it into law",
+          "act": "policy_social",
+          "agent": "marginalized"
+        },
+        {
+          "text": "I went after transnational gangs, drug cartels, and human traffickers",
+          "act": "policy_foreign",
+          "agent": "self"
+        },
+        {
+          "text": "when I am president, I will sign that bill into law",
+          "act": "policy_foreign",
+          "agent": "self"
+        },
+        {
+          "text": "I know Donald Trump's tight",
+          "act": "attack_opp",
+          "agent": "self"
+        },
+        {
+          "text": "Donald Trump ran a for-profit college that scammed students",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump was found liable for committing sexual abuse",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump was just found guilty of fraud, 34 counts",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump has a different plan",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Project 2025 agenda",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "he intends to surrender our fight against the climate crisis",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump, well, he claims it's a hoax",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump doesn't want to fix this problem",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump tanked the bill because he thought it would help him win an election",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump handpicked three members of the United States Supreme Court",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "he would sign a national abortion ban",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump has vowed to be a dictator on day one",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "he will weaponize the Department of Justice against his political enemies",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "termination of the Constitution of the United States",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "I've certainly been dealing with people like him my entire career",
+          "act": "attack_opp",
+          "agent": "self"
+        },
+        {
+          "text": "Predators who abused women",
+          "act": "attack_opp",
+          "agent": "marginalized"
+        },
+        {
+          "text": "fraudsters who ripped off consumers",
+          "act": "attack_opp",
+          "agent": "marginalized"
+        },
+        {
+          "text": "scammers who broke the rules for personal gain",
+          "act": "attack_opp",
+          "agent": "marginalized"
+        },
+        {
+          "text": "before I was elected vice president, I was an elected attorney general",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "I was a courtroom prosecutor",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "I took on one of our country's largest for-profit colleges that scammed students",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "When I was Attorney General of California, we worked together to crack down on wage theft",
+          "act": "past_actions",
+          "agent": "marginalized"
+        },
+        {
+          "text": "we fought together for paid family leave and medical leave",
+          "act": "past_actions",
+          "agent": "marginalized"
+        },
+        {
+          "text": "we celebrated your historic contract win",
+          "act": "past_actions",
+          "agent": "admin"
+        },
+        {
+          "text": "I held Wall Street banks accountable for fraud",
+          "act": "past_actions",
+          "agent": "marginalized"
+        },
+        {
+          "text": "I prosecuted them in case after case, and I won",
+          "act": "past_actions",
+          "agent": "marginalized"
+        },
+        {
+          "text": "When I was Attorney General, I went after price-fixing schemes",
+          "act": "past_actions",
+          "agent": "marginalized"
+        },
+        {
+          "text": "I will always put the middle class and working families first",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "when the middle class is strong, America is strong",
+          "act": "policy_economic",
+          "agent": "admin"
+        }
+      ]
+    },
+    {
+      "speech_number": 63,
+      "speech_metadata": {
+        "date": "2024-10-31",
+        "type": "Rally",
+        "location": "Reno, Nevada",
+        "chunk_id": "full",
+        "word_count": 2769
+      },
+      "pentad_analysis": {
+        "act_frequencies": {
+          "policy_economic": 18,
+          "policy_social": 7,
+          "policy_foreign": 1,
+          "attack_opp": 16,
+          "past_actions": 7
+        },
+        "agent_frequencies": {
+          "self": 22,
+          "admin": 2,
+          "trump": 17,
+          "billionaires": 2,
+          "marginalized": 6
+        },
+        "ratio_frequencies": {
+          "self+policy_economic": 11,
+          "self+policy_social": 4,
+          "self+policy_foreign": 1,
+          "self+attack_opp": 2,
+          "self+past_actions": 4,
+          "admin+policy_economic": 1,
+          "admin+policy_social": 0,
+          "admin+policy_foreign": 0,
+          "admin+attack_opp": 0,
+          "admin+past_actions": 1,
+          "trump+policy_economic": 5,
+          "trump+policy_social": 1,
+          "trump+policy_foreign": 0,
+          "trump+attack_opp": 11,
+          "trump+past_actions": 0,
+          "billionaires+policy_economic": 2,
+          "billionaires+policy_social": 0,
+          "billionaires+policy_foreign": 0,
+          "billionaires+attack_opp": 0,
+          "billionaires+past_actions": 0,
+          "marginalized+policy_economic": 0,
+          "marginalized+policy_social": 2,
+          "marginalized+policy_foreign": 0,
+          "marginalized+attack_opp": 2,
+          "marginalized+past_actions": 2
+        }
+      },
+      "tagged_excerpts": [
+        {
+          "text": "bringing down your cost of living that will be my focus every single day as president",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "give a middle class tax cut to over 100 million Americans",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "first ever federal ban on corporate price gouging on groceries",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "make housing more affordable by building more homes",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "taking on corporate landlords who unfairly buy up all these properties and jack up rents",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "raising the minimum wage and eliminating taxes on tips for service and hospitality workers",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "my plan will cover the cost of home health care for seniors with Medicare",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "My plan will lower the cost of child care",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "cut taxes for small businesses",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "lower health care costs",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "health care should be a right and not just a privilege",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "our economy is the strongest in the world",
+          "act": "policy_economic",
+          "agent": "admin"
+        },
+        {
+          "text": "another trillion dollars in tax cuts for billionaires and big corporations",
+          "act": "policy_economic",
+          "agent": "billionaires"
+        },
+        {
+          "text": "20% national sales tax on everything you buy",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "cost you on average an additional $4,000 a year",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "get rid of the Affordable Care Act",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "throw millions of Americans off the health insurance",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "insurance companies had the ability to deny people with preexisting conditions",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "fundamental freedom of a woman to make decisions about her own body",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "vote yes on question 6",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "when Congress passes a bill to restore reproductive freedom nationwide I will sign it into law",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "live free from gun violence",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "Trump abortion ban",
+          "act": "policy_social",
+          "agent": "trump"
+        },
+        {
+          "text": "the government should not be telling her what to do with her body",
+          "act": "policy_social",
+          "agent": "marginalized"
+        },
+        {
+          "text": "put the Constitution of the United States above parties",
+          "act": "policy_social",
+          "agent": "marginalized"
+        },
+        {
+          "text": "the cartels that trafficked in guns and drugs and human beings",
+          "act": "policy_foreign",
+          "agent": "self"
+        },
+        {
+          "text": "turn the page on a decade of Donald Trump trying to keep us divided and afraid of each other",
+          "act": "attack_opp",
+          "agent": "self"
+        },
+        {
+          "text": "Donald Trump is not someone who is thinking about how to make your life better",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "increasingly unstable, obsessed with revenge. Consumed with grievance",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "he's out for unchecked power",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump on day one would walk into that office with an enemy's list",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "another trillion dollars in tax cuts for billionaires",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Trump sales tax that economists have measured will cost you an additional $4,000 a year",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump still wants to get rid of the Affordable Care Act",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump hand selected three members of the United States Supreme Court to overturn Roe v. Wade",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "one in three women in America lives in a state with a Trump abortion ban",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "he will do it whether the women like it or not",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "he does not believe women should have authority or agency over their own bodies",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "women should be punished for their choices",
+          "act": "attack_opp",
+          "agent": "marginalized"
+        },
+        {
+          "text": "does not respect the freedom of women or the intelligence of women",
+          "act": "attack_opp",
+          "agent": "marginalized"
+        },
+        {
+          "text": "He wants to put them in jail",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "I am ready to offer that leadership as the next president",
+          "act": "attack_opp",
+          "agent": "self"
+        },
+        {
+          "text": "For decades as a prosecutor and as top law enforcement officer",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "I won fights with Catherine against the big banks that ripped off homeowners",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "Against for profit colleges that scammed veterans and students",
+          "act": "past_actions",
+          "agent": "marginalized"
+        },
+        {
+          "text": "Against predators who harmed women and children",
+          "act": "past_actions",
+          "agent": "marginalized"
+        },
+        {
+          "text": "I took care of my mother when she was sick",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "I've taken on that issue before",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "We will win",
+          "act": "past_actions",
+          "agent": "admin"
+        }
+      ]
+    },
+    {
+      "speech_number": 67,
+      "speech_metadata": {
+        "date": "2024-11-02",
+        "type": "Rally",
+        "location": "Charlotte, North Carolina",
+        "chunk_id": "full",
+        "word_count": 2790
+      },
+      "pentad_analysis": {
+        "act_frequencies": {
+          "policy_economic": 16,
+          "policy_social": 6,
+          "policy_foreign": 1,
+          "attack_opp": 14,
+          "past_actions": 8
+        },
+        "agent_frequencies": {
+          "self": 20,
+          "admin": 2,
+          "trump": 17,
+          "billionaires": 2,
+          "marginalized": 4
+        },
+        "ratio_frequencies": {
+          "self+policy_economic": 9,
+          "self+policy_social": 3,
+          "self+policy_foreign": 1,
+          "self+attack_opp": 2,
+          "self+past_actions": 5,
+          "admin+policy_economic": 1,
+          "admin+policy_social": 0,
+          "admin+policy_foreign": 0,
+          "admin+attack_opp": 0,
+          "admin+past_actions": 1,
+          "trump+policy_economic": 4,
+          "trump+policy_social": 1,
+          "trump+policy_foreign": 0,
+          "trump+attack_opp": 12,
+          "trump+past_actions": 0,
+          "billionaires+policy_economic": 2,
+          "billionaires+policy_social": 0,
+          "billionaires+policy_foreign": 0,
+          "billionaires+attack_opp": 0,
+          "billionaires+past_actions": 0,
+          "marginalized+policy_economic": 0,
+          "marginalized+policy_social": 2,
+          "marginalized+policy_foreign": 0,
+          "marginalized+attack_opp": 0,
+          "marginalized+past_actions": 2
+        }
+      },
+      "tagged_excerpts": [
+        {
+          "text": "bringing down the cost of living for you. That will be my focus every single day as president",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "give a middle-class tax cut to over 100 million Americans",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "first ever federal ban on corporate price gouging on groceries",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "hard-working Americans can actually afford a place to live",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "my plan will cover the cost of home care under Medicare",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "Medicare covers the cost of home healthcare for seniors",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "lower the cost of childcare",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "cut taxes for small businesses",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "lowering healthcare costs",
+          "act": "policy_economic",
+          "agent": "self"
+        },
+        {
+          "text": "access to healthcare should be a right and not just a privilege",
+          "act": "policy_economic",
+          "agent": "admin"
+        },
+        {
+          "text": "another trillion dollars in tax cuts for billionaires and big corporations",
+          "act": "policy_economic",
+          "agent": "billionaires"
+        },
+        {
+          "text": "20% national sales tax on everything you buy that is imported",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "cost you an additional $4,000 a year",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "get rid of the Affordable Care Act",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "insurance companies could deny people with preexisting conditions",
+          "act": "policy_economic",
+          "agent": "trump"
+        },
+        {
+          "text": "fundamental freedom of a woman to make decisions about her own body",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "not have her government tell her what to do",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "when Congress passes a bill to restore reproductive freedom nationwide I will sign it into law",
+          "act": "policy_social",
+          "agent": "self"
+        },
+        {
+          "text": "Trump abortion ban",
+          "act": "policy_social",
+          "agent": "trump"
+        },
+        {
+          "text": "live free from gun violence",
+          "act": "policy_social",
+          "agent": "marginalized"
+        },
+        {
+          "text": "take on the climate crisis",
+          "act": "policy_social",
+          "agent": "marginalized"
+        },
+        {
+          "text": "we all want that war in the Middle East to end",
+          "act": "policy_foreign",
+          "agent": "self"
+        },
+        {
+          "text": "turn the page on a decade of Donald Trump trying to keep us divided and afraid of each other",
+          "act": "attack_opp",
+          "agent": "self"
+        },
+        {
+          "text": "This is not someone who is thinking about how to make your life better",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "increasingly unstable, obsessed with revenge, consumed with grievance",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "the man is out for unchecked power",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump on day one would be sitting in that office, stewing over his enemies list",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "another trillion dollars in tax cuts for billionaires",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Trump sales tax that economists have estimated will cost you an additional $4,000 a year",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump still wants to get rid of the Affordable Care Act",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "Donald Trump hand selected three members of the United States Supreme Court",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "He would ban abortion nationwide",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "restrict access to birth control, put IVF treatments at risk",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "forced states to monitor women's pregnancies",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "He wants to put them in jail",
+          "act": "attack_opp",
+          "agent": "trump"
+        },
+        {
+          "text": "I am ready to offer that leadership as the next president",
+          "act": "attack_opp",
+          "agent": "self"
+        },
+        {
+          "text": "I've been a prosecutor and top law enforcement officer",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "I won fights against the big banks that ripped off homeowners",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "I won fights against profit colleges that scammed veterans and students",
+          "act": "past_actions",
+          "agent": "marginalized"
+        },
+        {
+          "text": "Against predators who abused women and children",
+          "act": "past_actions",
+          "agent": "marginalized"
+        },
+        {
+          "text": "I won fights against the cartels that traffic and guns and drugs and human beings",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "When my mother was sick, I took care of her",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "I have spent my life fighting for people who have been hurt and counted out",
+          "act": "past_actions",
+          "agent": "self"
+        },
+        {
+          "text": "when we fight, we win",
+          "act": "past_actions",
+          "agent": "admin"
+        },
+        {
+          "text": "tax cuts for billionaires and big corporations",
+          "act": "policy_economic",
+          "agent": "billionaires"
+        }
+      ]
+    }
+  ]

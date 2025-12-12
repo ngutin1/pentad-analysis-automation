@@ -42,6 +42,7 @@ The analysis covers **71 campaign events** from Kamala Harris's 2024 presidentia
 - **Agency**: How something is accomplished
 - **Purpose**: Why something is done
 
+<<<<<<< Updated upstream
 ## Getting Started
 
 ### Prerequisites
@@ -133,6 +134,10 @@ Contributions are welcome! Areas of particular interest:
 - Enhancing semantic chunking algorithms
 - Developing pentad analysis automation
 - Creating visualization tools for rhetorical trends
+=======
+### 4. Analysis
+https://ngutin.substack.com/p/the-art-of-failed-storytelling-the
+>>>>>>> Stashed changes
 
 ## License
 
@@ -146,6 +151,7 @@ This project is licensed under the MIT License - see the [LICENSE] file for deta
 - **Kenneth Burke** for the pentad rhetorical analysis framework
 - **Campaign staff and media outlets** for providing publicly available speech recordings
 
+<<<<<<< Updated upstream
 ## Contact
 
 For questions about methodology, collaboration opportunities, or data access:
@@ -153,4 +159,7 @@ For questions about methodology, collaboration opportunities, or data access:
 - Contact: [nicholasgutin@gmail.com]
 
 ---
+=======
+*
+>>>>>>> Stashed changes
  
