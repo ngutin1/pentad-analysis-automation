@@ -9,7 +9,6 @@ This project systematically analyzes campaign rhetoric through:
 - **Automated transcription** of YouTube campaign videos using Whisper AI
 - **Semantic chunking** for optimal text processing
 - **Pentad analysis** to quantify rhetorical choices and strategies
-- **Correlation analysis** between rhetorical patterns and polling momentum
 
 ## Dataset
 
